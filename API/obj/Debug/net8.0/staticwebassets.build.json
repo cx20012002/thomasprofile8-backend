@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "Y+rjfbxIXt/6NKhAiAjWh3TuMpQIjy9F5oUsQ/j44uY=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API/wwwroot",
+      "Source": "API",
+      "ContentRoot": "/Users/thomaschen/Desktop/koffee/API/wwwroot/",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
